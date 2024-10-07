@@ -24,14 +24,18 @@
     <last-used-providers />
   </component>
   <component name="DBNavigator.Project.DatabaseFileManager">
-    <open-files />
+    <open-files>
+      <object connection-id="468ac8cf-41ce-4a46-9626-22e28d6d5c85" object-ref="schemas/main/tables/users" />
+    </open-files>
   </component>
   <component name="DBNavigator.Project.DatabaseSessionManager">
     <connection id="468ac8cf-41ce-4a46-9626-22e28d6d5c85" />
   </component>
   <component name="DBNavigator.Project.DatasetFilterManager">
     <filter-actions connection-id="468ac8cf-41ce-4a46-9626-22e28d6d5c85" dataset="main.albums" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="468ac8cf-41ce-4a46-9626-22e28d6d5c85" dataset="main.users" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="468ac8cf-41ce-4a46-9626-22e28d6d5c85" dataset="main.tracks" active-filter-id="EMPTY_FILTER" />
+    <filter-actions connection-id="468ac8cf-41ce-4a46-9626-22e28d6d5c85" dataset="main.artists" active-filter-id="EMPTY_FILTER" />
     <filter-actions connection-id="468ac8cf-41ce-4a46-9626-22e28d6d5c85" dataset="main.features" active-filter-id="EMPTY_FILTER" />
   </component>
   <component name="DBNavigator.Project.ObjectQuickFilterManager">
