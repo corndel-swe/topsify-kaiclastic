@@ -1,5 +1,6 @@
 .mode json
-SELECT *
+SELECT * ,artists.name as artistName
 from albums
-ORDER BY name;
+Inner join artists on artists.id = albums.artist_id
+ORDER BY artistName;
 

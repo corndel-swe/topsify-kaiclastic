@@ -26,7 +26,7 @@ function displayAlbums(container, albums) {
 
     const albumArtist = document.createElement('p')
     albumArtist.className = 'album-card__artist'
-    albumArtist.textContent = `Artist ID: ${album.artist_id}`
+    albumArtist.textContent = `Artist Name: ${album.artistName}`
 
     const albumReleaseDate = document.createElement('p')
     albumReleaseDate.className = 'album-card__release-date'
