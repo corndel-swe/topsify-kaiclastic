@@ -4,3 +4,5 @@
 SELECT name, duration_ms
 FROM tracks
 LIMIT 5;
+
+.mode json
